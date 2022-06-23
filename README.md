@@ -1,4 +1,5 @@
 ### Hi there 👋               ![counter](https://enjle1r4ff7hltp.m.pipedream.net)
+I like games and APIs
 ![Avicenna's github stats](https://github-readme-stats.vercel.app/api?username=avicennajr&count_private=true&show_icons=true&theme=synthwave)
 
 [![Avicenna's github streak](https://github-readme-streak-stats.herokuapp.com/?user=avicennajr&theme=blue-green)](https://github.com/avicennajr/)
