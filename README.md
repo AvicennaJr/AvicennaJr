@@ -9,7 +9,20 @@ I like games and APIs
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=avicennajr&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff" />
 <br><br><br>
 </div>
-<ul style="display: grid; grid-template-columns: repeat(auto-fit, 50px);">
+<ul style="display: grid;
+  grid-template-columns: repeat(auto-fit, 120px);
+  grid-gap: 1rem;
+  justify-content: space-between;
+  align-content: flex-start;
+  
+  /* boring properties: */
+  list-style: none;
+  width: 90vw;
+  height: 90vh;
+  margin: 2vh auto;
+  border: 5px solid green;
+  padding: 0;
+  overflow: auto;">
 <li><img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></l>
 <li><img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" height="50"></li>
 <li><img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" ></li>
