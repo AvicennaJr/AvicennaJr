@@ -1,7 +1,9 @@
-<div align="center">
 ### Hi there 👋               ![counter](https://enjle1r4ff7hltp.m.pipedream.net)
 I like games and APIs  
 </br>
+
+<div align="center">
+
 <img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-stats.vercel.app/api?username=avicennajr&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff" />
 </br>
 <img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-streak-stats.herokuapp.com/?user=avicennajr&theme=github-dark&border_radius=30" />
