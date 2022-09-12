@@ -6,8 +6,8 @@ I like games and APIs
 <center>
   <table>
   <tr>
-      <td><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=avicennajr&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=avicennajr&layout=compact&langs_count=8&hide=html&theme=nightowl&border_radius=15&border_color=#212121" />
+      <td><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=avicennajr&layout=compact&langs_count=8&hide=Mako&theme=github_dark&count_private=true&border_radius=30">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=avicennajr&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=30" />
   
 </a>
 </td>
