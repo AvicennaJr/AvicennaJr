@@ -9,16 +9,16 @@ I like games and APIs
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=avicennajr&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff" />
 <br><br><br>
 </div>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, 120px);">
-<img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" width="50" height="50" alt="django logo">
-<img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >
-<img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" >
-<img height = "50" src = "https://raw.githubusercontent.com/github/explore/49e13f12be05e7e3f3616bb7a5030d70b259f320/topics/julia/julia.png" > </code >
-<img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" >
-<img height = "50" src = "https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" >
-<img height = "50" src = "https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" >
-</div>
+<ul style="display: grid; grid-template-columns: repeat(auto-fit, 50px);">
+<li><img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></l>
+<li><img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" height="50"></li>
+<li><img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" ></li>
+<li><img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" ></li>
+<li><img height = "50" src = "https://raw.githubusercontent.com/github/explore/49e13f12be05e7e3f3616bb7a5030d70b259f320/topics/julia/julia.png" > </li>
+<li><img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" ></li>
+<li><img height = "50" src = "https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" ></li>
+<li><img height = "50" src = "https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" ></li>
+</ul>
 
 <!--
 **avicennajr/avicennajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
