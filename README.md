@@ -2,7 +2,7 @@
 I like games and APIs  
 </br>
 ![Avicenna's github stats](https://github-readme-stats.vercel.app/api?username=avicennajr&count_private=true&show_icons=true&theme=synthwave)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AvicennaJr&theme=github_dark&count_private=true) 
 [![Avicenna's github streak](https://github-readme-streak-stats.herokuapp.com/?user=avicennajr&theme=blue-green)](https://github.com/avicennajr/)
 <center>
   <table>
