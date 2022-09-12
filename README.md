@@ -1,9 +1,8 @@
 ### Hi there 👋               ![counter](https://enjle1r4ff7hltp.m.pipedream.net)
 I like games and APIs  
 </br>
-<div align="center">
-![Avicenna's github stats](https://github-readme-stats.vercel.app/api?username=avicennajr&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff)
-</div><br>
+<img style="display: block; margin: auto;" alt="photo" src="![Avicenna's github stats](https://github-readme-stats.vercel.app/api?username=avicennajr&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff)">
+<br>
 [![Avicenna's github streak](https://github-readme-streak-stats.herokuapp.com/?user=avicennajr&theme=github-dark&border_radius=30)](https://github.com/avicennajr/)
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=avicennajr&layout=compact&langs_count=8&hide=Mako&theme=github_dark&count_private=true&border_radius=30">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=avicennajr&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff" />
