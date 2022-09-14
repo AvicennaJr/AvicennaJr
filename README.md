@@ -8,5 +8,5 @@ I like games and APIs
 <br><br><br>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=avicennajr&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff" />
 <br><br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=AvicennaJr&theme=github-dark&color=fff&line=39D353&point=fff" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=AvicennaJr&theme=github-dark&color=fff&line=39D353&point=fff&area=false" />
 </div>
